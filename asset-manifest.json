@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fakesbook-react/static/css/main.2117f827.css",
+    "main.js": "/fakesbook-react/static/js/main.394bade0.js",
+    "index.html": "/fakesbook-react/index.html",
+    "main.2117f827.css.map": "/fakesbook-react/static/css/main.2117f827.css.map",
+    "main.394bade0.js.map": "/fakesbook-react/static/js/main.394bade0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2117f827.css",
+    "static/js/main.394bade0.js"
+  ]
+}
